@@ -5,6 +5,11 @@ Classification and clustering with Open University Learning Analytics Dataset
 Dataset Link:  
 https://www.kaggle.com/datasets/rocki37/open-university-learning-analytics-dataset
 
+## Our objectives  
+
+![image](https://user-images.githubusercontent.com/87708360/171988782-80b4fad8-892a-46d1-a4d2-c1dc2c995aad.png)
+
+
 
 ## Few function definition for convenient data analysis  
   
