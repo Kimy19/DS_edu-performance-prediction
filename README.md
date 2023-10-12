@@ -1,4 +1,4 @@
-# DataScience_TermProject
+# DataScience_Project
  
 Classification and clustering with Open University Learning Analytics Dataset
 
